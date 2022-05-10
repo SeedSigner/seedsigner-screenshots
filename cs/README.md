@@ -1,4 +1,8 @@
 # SeedSigner Screenshots: Czech
+Translation progress: 2.1%
+
+---
+
 MainMenuView:
 
 <img src="MainMenuView.png">

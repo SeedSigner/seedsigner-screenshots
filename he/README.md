@@ -1,4 +1,8 @@
 # SeedSigner Screenshots: Hebrew
+Translation progress: 11.3%
+
+---
+
 MainMenuView:
 
 <img src="MainMenuView.png">

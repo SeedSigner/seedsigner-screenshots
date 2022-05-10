@@ -1,4 +1,8 @@
 # SeedSigner Screenshots: Russian
+Translation progress: 97.5%
+
+---
+
 MainMenuView:
 
 <img src="MainMenuView.png">

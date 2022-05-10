@@ -1,4 +1,8 @@
 # SeedSigner Screenshots: Spanish
+Translation progress: 98.3%
+
+---
+
 MainMenuView:
 
 <img src="MainMenuView.png">
