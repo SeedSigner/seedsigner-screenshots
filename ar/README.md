@@ -1,85 +1,71 @@
 # SeedSigner Screenshots: Arabic
+MainMenuView:
 <img src="MainMenuView.png">
 
-MainMenuView
-
 ---
 
+PowerOffView:
 <img src="PowerOffView.png">
 
-PowerOffView
-
 ---
 
+SettingsUpdatedView:
 <img src="SettingsUpdatedView.png">
 
-SettingsUpdatedView
-
 ---
 
+LoadSeedView:
 <img src="LoadSeedView.png">
 
-LoadSeedView
-
 ---
 
+SeedMnemonicEntryView:
 <img src="SeedMnemonicEntryView.png">
 
-SeedMnemonicEntryView
-
 ---
 
+SeedMnemonicInvalidView:
 <img src="SeedMnemonicInvalidView.png">
 
-SeedMnemonicInvalidView
-
 ---
 
+SeedWordsWarningView:
 <img src="SeedWordsWarningView.png">
 
-SeedWordsWarningView
-
 ---
 
+SettingsMenuView:
 <img src="SettingsMenuView.png">
 
-SettingsMenuView
-
 ---
 
+SettingsEntryUpdateSelectionView:
 <img src="SettingsEntryUpdateSelectionView.png">
 
-SettingsEntryUpdateSelectionView
-
 ---
 
+IOTestView:
 <img src="IOTestView.png">
 
-IOTestView
-
 ---
 
+DonateView:
 <img src="DonateView.png">
 
-DonateView
-
 ---
 
+ToolsMenuView:
 <img src="ToolsMenuView.png">
 
-ToolsMenuView
-
 ---
 
+ToolsDiceEntropyMnemonicLengthView:
 <img src="ToolsDiceEntropyMnemonicLengthView.png">
 
-ToolsDiceEntropyMnemonicLengthView
-
 ---
 
+ToolsDiceEntropyEntryView:
 <img src="ToolsDiceEntropyEntryView.png">
-
-ToolsDiceEntropyEntryView
 
 ---
 
