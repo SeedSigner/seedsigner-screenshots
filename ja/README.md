@@ -1,5 +1,5 @@
 # SeedSigner Screenshots: Japanese
-Translation progress: 97.5%
+Translation progress: 100.0%
 
 ---
 
