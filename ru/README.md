@@ -1,5 +1,5 @@
 # SeedSigner Screenshots: Russian
-Translation progress: 97.5%
+Translation progress: 11.9%
 
 ---
 

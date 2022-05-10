@@ -1,5 +1,5 @@
 # SeedSigner Screenshots: Arabic
-Translation progress: 11.3%
+Translation progress: 11.4%
 
 ---
 
