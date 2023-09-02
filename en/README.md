@@ -13,10 +13,6 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">PowerOptionsView<br/><br/><img src="main_menu_views/PowerOptionsView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">RestartView<br/><br/><img src="main_menu_views/RestartView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">PowerOffView<br/><br/><img src="main_menu_views/PowerOffView.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">NotYetImplementedView<br/><br/><img src="main_menu_views/NotYetImplementedView.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">UnhandledExceptionView<br/><br/><img src="main_menu_views/UnhandledExceptionView.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsIngestSettingsQRView<br/><br/><img src="main_menu_views/SettingsIngestSettingsQRView.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">NetworkMismatchErrorView<br/><br/><img src="main_menu_views/NetworkMismatchErrorView.png"></td></tr></table>
 </td></tr></table>
 
 ---
@@ -126,4 +122,18 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_partner_logos<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_partner_logos.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">IOTestView<br/><br/><img src="settings_views/IOTestView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">DonateView<br/><br/><img src="settings_views/DonateView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsIngestSettingsQRView_persistent<br/><br/><img src="settings_views/SettingsIngestSettingsQRView_persistent.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsIngestSettingsQRView_not_persistent<br/><br/><img src="settings_views/SettingsIngestSettingsQRView_not_persistent.png"></td></tr></table>
+</td></tr></table>
+
+---
+
+## Misc Error Views
+
+<table style="border: 0;"><tr><td align="center">
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">NotYetImplementedView<br/><br/><img src="misc_error_views/NotYetImplementedView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">UnhandledExceptionView<br/><br/><img src="misc_error_views/UnhandledExceptionView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">NetworkMismatchErrorView<br/><br/><img src="misc_error_views/NetworkMismatchErrorView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">OptionDisabledView<br/><br/><img src="misc_error_views/OptionDisabledView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">ErrorView<br/><br/><img src="misc_error_views/ErrorView.png"></td></tr></table>
 </td></tr></table>
