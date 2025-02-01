@@ -63,6 +63,9 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRZoomedInView_12_Compact<br/><br/><img src="seed_views/SeedTranscribeSeedQRZoomedInView_12_Compact.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRZoomedInView_12_Standard<br/><br/><img src="seed_views/SeedTranscribeSeedQRZoomedInView_12_Standard.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRConfirmQRPromptView<br/><br/><img src="seed_views/SeedTranscribeSeedQRConfirmQRPromptView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRConfirmWrongSeedView<br/><br/><img src="seed_views/SeedTranscribeSeedQRConfirmWrongSeedView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRConfirmInvalidQRView<br/><br/><img src="seed_views/SeedTranscribeSeedQRConfirmInvalidQRView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRConfirmSuccessView<br/><br/><img src="seed_views/SeedTranscribeSeedQRConfirmSuccessView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedSelectSeedView_address_verification<br/><br/><img src="seed_views/SeedSelectSeedView_address_verification.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">AddressVerificationSigTypeView<br/><br/><img src="seed_views/AddressVerificationSigTypeView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddressVerificationView<br/><br/><img src="seed_views/SeedAddressVerificationView.png"></td></tr></table>
